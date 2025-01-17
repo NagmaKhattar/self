@@ -17,6 +17,7 @@ public class ArrayDemonstration {
      * arguments
      * change
      changing in github
+     showing fetch and merge
      */
     public static void main(String[] args) {
         // TODO code application logic here
